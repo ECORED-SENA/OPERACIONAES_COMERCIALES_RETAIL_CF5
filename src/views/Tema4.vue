@@ -35,7 +35,7 @@
       |Cada vez se organizan más eventos promovidos por empresas, como conferencias, convenciones, congresos, etc. 
     h3(data-aos="fade-right") Reglas de oro del protocolo empresarial 
     p.mb-5 El protocolo empresarial tiene una serie de reglas que se deben tener en cuenta y que garantizan una actuación protocolaria satisfactoria:
-    SlyderE(indicadores="izquierda")
+    SlyderE(indicadores="izquierda").mb-5
       .row
         .col-md-5.mb-4.mb-md-0
           h4 Información

@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.bg-img.p-4.p-md-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 5
@@ -163,22 +163,22 @@
           br
           |Siguiendo las siguientes normas, podemos obtener una buena información en las encuestas:
       .col-lg-6(data-aos="fade-left"): img(src="@/assets/curso/70.jpg")
-    .row.mb-5
+    .row.mb-5.g-1
       .col-lg-3
-        .tarjeta.bg--1-1.p-5.h-100
+        .tarjeta.bg--1-1.py-5.px-4.h-100
           img(src="@/assets/curso/71.svg" style="width: 57px").mb-4
           p Realice una buena segmentación de clientes, es un error enviar la misma encuesta a trabajadores que desempeñan diferentes funciones y no se conocen entre ellos, es importante elaborar diferentes encuestas teniendo en cuenta el tamaño de la empresa, no las envié a la vez, hay que tomarse el tiempo y hacerlo por separado. 
       .col-lg-3
-        .tarjeta.bg--1-1.p-5.h-100
+        .tarjeta.bg--1-1.py-5.px-4.h-100
           img(src="@/assets/curso/72.svg" style="width: 57px").mb-4
           p Cree una segmentación por departamentos ya que pueden salir preguntas por cada uno de ellos, las probabilidades de que no contesten las encuestas son grandes ya que si se asigna a una sola persona que vaya a cada uno de los departamentos no esté dispuesta a ir por toda la empresa y no se sacaría una buena muestra, además las posibilidades de que se pierda el documento por el camino son elevadas, lo recomendable es que se asigne a una persona por departamento para la aplicación de la encuesta.
       .col-lg-3
-        .tarjeta.bg--1-1.p-5.h-100
+        .tarjeta.bg--1-1.py-5.px-4.h-100
           img(src="@/assets/curso/73.svg" style="width: 57px").mb-4
           p
             b Primero se deben hacer preguntas generales, en las siguientes encuestas profundice en los temas que provocaron diferencias en la opinión, si después de aplicar la primera encuesta obtiene una buena puntuación no hace falta realizar otra.
       .col-lg-3
-        .tarjeta.bg--1-1.p-5.h-100
+        .tarjeta.bg--1-1.py-5.px-4.h-100
           img(src="@/assets/curso/74.svg" style="width: 57px").mb-4
           p
             b Haga encuestas telefónicas siempre que pueda y tenga los medios adecuados. Los usuarios o clientes siempre estarán más dispuestos a contestar a una persona que a un frío papel. 
@@ -189,29 +189,29 @@
       .col-lg-3
         .tarjeta.tarjeta-hover.bg--4-claro2.py-5.px-3.h-100.texto-e(style="min-height: 400px").d-flex.align-items-center.justify-content-center
           .h1.mb-0.text-center.color__1 P
-          .tarjeta.tarjeta-hover.bg--1.p-5
-            .text-center.text-small
+          .tarjeta.tarjeta-hover.bg--1.py-5.px-4
+            .text-center.text-medium
               h4 Peticiones
               p Es la solicitud o requerimiento de una acción o atención. Las peticiones se encuentran enmarcadas dentro del Derecho de Petición consagrado en el Código Contencioso Administrativo, en el cual se dicta un tratamiento especial e independiente, las empresas deben resolver las peticiones dentro de los 15 días siguientes a la fecha de recibo.
       .col-lg-3
         .tarjeta.tarjeta-hover.bg--4-claro2.py-5.px-3.h-100.texto-e(style="min-height: 400px").d-flex.align-items-center.justify-content-center
           .h1.mb-0.text-center.color__2 Q
           .tarjeta.tarjeta-hover.bg--2.p-5
-            .text-center.text-small.text-white
+            .text-center.text-medium.text-white
               h4 Quejas
               p Son las expresiones de inconformidad por parte del cliente interno como del cliente externo, las quejas se colocan por algo o alguien en una institución por la inadecuada prestación de un servicio público o privado. 
       .col-lg-3
         .tarjeta.tarjeta-hover.bg--4-claro2.py-5.px-3.h-100.texto-e(style="min-height: 400px").d-flex.align-items-center.justify-content-center
           .h1.mb-0.text-center.color__4 R
           .tarjeta.tarjeta-hover.bg--4.p-5
-            .text-center.text-small
+            .text-center.text-medium
               h4 Reclamos
               p  Pruebas que se exponen por una actuación considerada injusta, con un reclamo se exigen los derechos del cliente o usuario relacionados con la inadecuada prestación de los servicios que se ofrecen al cliente interno y al cliente externo.
       .col-lg-3
         .tarjeta.tarjeta-hover.bg--4-claro2.py-5.px-3.h-100.texto-e(style="min-height: 400px").d-flex.align-items-center.justify-content-center
           .h1.mb-0.text-center.color__3 S
           .tarjeta.tarjeta-hover.bg--3.p-5
-            .text-center.text-small.text-white
+            .text-center.text-medium.text-white
               h4 Sugerencia
               p Es una recomendación o comunicación de una idea o propuesta para mejorar el servicio o la gestión de la entidad.
     #t_5_4.titulo-segundo(data-aos="fade-right")
@@ -322,4 +322,7 @@ export default {
     color: $color-acento-contenido
   &__4
     color: $color-acento-botones
+.text-medium
+  h4, p
+    font-size: 15px !important
 </style>
