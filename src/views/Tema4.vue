@@ -46,7 +46,7 @@
       .row
         .col-md-5.mb-4.mb-md-0
           h4 Presencia
-          p Tener una presencia agradable es muy importante para causar una buena primera impresión, teniendo en cuenta que ‘buena presencia” no significa únicamente vestir bien, sino portarse con corrección, con naturalidad, siendo sencillo y educado. 
+          p Tener una presencia agradable es muy importante para causar una buena primera impresión, teniendo en cuenta que "buena presencia" no significa únicamente vestir bien, sino portarse con corrección, con naturalidad, siendo sencillo y educado. 
         .col-md-7
           figure
             img(src='@/assets/curso/50.jpg', alt='Texto que describa la imagen')
@@ -123,7 +123,7 @@
         .row(titulo="4")
           .col-md-7.mb-4.mb-md-0
             h4 Protocolos de servicio al cliente
-            p Los protocolos de servicio al cliente ayudan a evitar pérdidas financieras ya que una mala atención al cliente le cuesta mucho dinero a la empresa por la pérdida de uno de ellos o por la mala publicidad que le pueda hacer al servicio recibido, según un estudio algunas empresas de 16 países perdieron $ 338 billones de dólares por la mala atención al cliente.
+            p Los protocolos de servicio al cliente ayudan a evitar pérdidas financieras, ya que una mala atención al cliente le cuesta mucho dinero a la empresa por la pérdida de uno de ellos o por la mala publicidad que le pueda hacer al servicio recibido, según un estudio algunas empresas de 16 países perdieron $ 338 billones de dólares por la mala atención al cliente.
           .col-md-5
             figure
               img(src='@/assets/curso/59.jpg', alt='Texto que describa la imagen')

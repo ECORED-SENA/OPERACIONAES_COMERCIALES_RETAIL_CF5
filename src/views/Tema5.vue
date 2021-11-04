@@ -152,13 +152,13 @@
     p.mb-5 Existen infinidad de herramientas para la evaluación de la satisfacción del cliente a continuación, veamos los métodos para medir la satisfacción del cliente, veamos los dos más comunes:
     .row.mb-5
       .col-lg-6(data-aos="fade-right")
-        h4 Trazabilidad descendente
-        p Hay que tener en cuenta que para posicionar un producto en el mercado se debe estudiar si hay demanda, existen mucha información sobre estudio de mercado, este estudio cobra importancia porque analiza la satisfacción del cliente ya que permite averiguar si el producto le puede interesar al cliente objetivo, una pregunta que se debe hacer en este estudio es que precio está dispuesto a pagar el cliente o usuario por el producto o servicio. 
+        h4 Estudios de mercado
+        p Hay que tener en cuenta que para posicionar un producto en el mercado se debe estudiar si hay demanda, existen mucha información sobre estudio de mercado, este estudio cobra importancia porque analiza la satisfacción del cliente, ya que permite averiguar si el producto le puede interesar al cliente objetivo, una pregunta que se debe hacer en este estudio es que precio está dispuesto a pagar el cliente o usuario por el producto o servicio. 
       .col-lg-6(data-aos="fade-left"): img(src="@/assets/curso/69.jpg")
     .row.mb-5
       .col-lg-6(data-aos="fade-right")
         h4 Encuestas de satisfacción del cliente
-        p En la historia reciente las encuestas no son muy bien recibidas ya que, debido a que la norma ISO 9001 obliga a todas las empresas medir la satisfacción del cliente, esto ha obligado a que las empresas envíen por correo la encuesta a los clientes, esta forma de encuesta no es efectiva porque según las estadísticas solamente el 5% de los encuestados responde las preguntas, son efectivas en el sentido que podemos hacer un análisis y darnos cuenta de aspectos que no hemos tenido en cuenta para la satisfacción del cliente.
+        p En la historia reciente las encuestas no son muy bien recibidas, debido a que la norma ISO 9001 obliga a todas las empresas medir la satisfacción del cliente, esto ha obligado a que las empresas envíen por correo la encuesta a los clientes, esta forma de encuesta no es efectiva porque según las estadísticas solamente el 5% de los encuestados responde las preguntas, son efectivas en el sentido que podemos hacer un análisis y darnos cuenta de aspectos que no hemos tenido en cuenta para la satisfacción del cliente.
           br
           br
           |Siguiendo las siguientes normas, podemos obtener una buena información en las encuestas:
@@ -171,7 +171,7 @@
       .col-lg-3
         .tarjeta.bg--1-1.py-5.px-4.h-100
           img(src="@/assets/curso/72.svg" style="width: 57px").mb-4
-          p Cree una segmentación por departamentos ya que pueden salir preguntas por cada uno de ellos, las probabilidades de que no contesten las encuestas son grandes ya que si se asigna a una sola persona que vaya a cada uno de los departamentos no esté dispuesta a ir por toda la empresa y no se sacaría una buena muestra, además las posibilidades de que se pierda el documento por el camino son elevadas, lo recomendable es que se asigne a una persona por departamento para la aplicación de la encuesta.
+          p Cree una segmentación por departamentos, ya que pueden salir preguntas por cada uno de ellos, las probabilidades de que no contesten las encuestas son grandes, ya que si se asigna a una sola persona que vaya a cada uno de los departamentos no esté dispuesta a ir por toda la empresa y no se sacaría una buena muestra, además las posibilidades de que se pierda el documento por el camino son elevadas, lo recomendable es que se asigne a una persona por departamento para la aplicación de la encuesta.
       .col-lg-3
         .tarjeta.bg--1-1.py-5.px-4.h-100
           img(src="@/assets/curso/73.svg" style="width: 57px").mb-4
@@ -186,28 +186,28 @@
       h2 5.3 Trámite de PQRS
     p.mb-5 Hablar de PQRS es hacer referencia al Sistema de atención de Peticiones, Quejas, Reclamos y Sugerencias. Todas las organizaciones tienen este proceso independientemente de su tamaño, actividad y sector. En algunas organizaciones puede parecer una tarea sencilla, la optimización de su funcionamiento puede llegar a ser más complicada de lo que se piensa, veamos en que consiste cada sigla de PQRS:
     .row.mb-5
-      .col-lg-3
-        .tarjeta.tarjeta-hover.bg--4-claro2.py-5.px-3.h-100.texto-e(style="min-height: 400px").d-flex.align-items-center.justify-content-center
+      .col-xl-3.col-md-6.mb-3
+        .tarjeta.tarjeta-hover.bg--4-claro2.py-5.px-3.h-100.texto-e(style="min-height: fit-content").d-flex.align-items-center.justify-content-center
           .h1.mb-0.text-center.color__1 P
           .tarjeta.tarjeta-hover.bg--1.py-5.px-4
             .text-center.text-medium
               h4 Peticiones
               p Es la solicitud o requerimiento de una acción o atención. Las peticiones se encuentran enmarcadas dentro del Derecho de Petición consagrado en el Código Contencioso Administrativo, en el cual se dicta un tratamiento especial e independiente, las empresas deben resolver las peticiones dentro de los 15 días siguientes a la fecha de recibo.
-      .col-lg-3
+      .col-xl-3.col-md-6.mb-3
         .tarjeta.tarjeta-hover.bg--4-claro2.py-5.px-3.h-100.texto-e(style="min-height: 400px").d-flex.align-items-center.justify-content-center
           .h1.mb-0.text-center.color__2 Q
           .tarjeta.tarjeta-hover.bg--2.p-5
             .text-center.text-medium.text-white
               h4 Quejas
               p Son las expresiones de inconformidad por parte del cliente interno como del cliente externo, las quejas se colocan por algo o alguien en una institución por la inadecuada prestación de un servicio público o privado. 
-      .col-lg-3
+      .col-xl-3.col-md-6.mb-3
         .tarjeta.tarjeta-hover.bg--4-claro2.py-5.px-3.h-100.texto-e(style="min-height: 400px").d-flex.align-items-center.justify-content-center
           .h1.mb-0.text-center.color__4 R
           .tarjeta.tarjeta-hover.bg--4.p-5
             .text-center.text-medium
               h4 Reclamos
               p  Pruebas que se exponen por una actuación considerada injusta, con un reclamo se exigen los derechos del cliente o usuario relacionados con la inadecuada prestación de los servicios que se ofrecen al cliente interno y al cliente externo.
-      .col-lg-3
+      .col-xl-3.col-md-6.mb-3
         .tarjeta.tarjeta-hover.bg--4-claro2.py-5.px-3.h-100.texto-e(style="min-height: 400px").d-flex.align-items-center.justify-content-center
           .h1.mb-0.text-center.color__3 S
           .tarjeta.tarjeta-hover.bg--3.p-5
@@ -223,10 +223,11 @@
         | Ciclo de la información
     figure.mb-5
       img(src="@/assets/curso/75.svg" style="width: 100%")
-    p.mb-5 Teniendo en cuenta lo anterior, debemos saber que la misión de la información es abarcar el control de calidad, la recopilación, el archivo y la accesibilidad a largo plazo a los datos recogidos y sus metadatos asociados.
-      br
-      br
-      |La entrega de la información y los requisitos para la elaboración de informes específicos por acuerdos internacionales suponen dificultades ampliadas. La distribución de las bases de datos a nivel nacional a menudo es diferente entre sí; la información puede ser antigua, parcial o subjetiva, con datos de precisión y exactitud desconocidas.
+    .row.mb-5.justify-content-center
+      .col-lg-8
+        .cajon.color-primario.bg--1-claro.p-4.mb-4
+          p Teniendo en cuenta lo anterior, debemos saber que la misión de la información es abarcar el control de calidad, la recopilación, el archivo y la accesibilidad a largo plazo a los datos recogidos y sus metadatos asociados.
+      p La entrega de la información y los requisitos para la elaboración de informes específicos por acuerdos internacionales suponen dificultades ampliadas. La distribución de las bases de datos a nivel nacional a menudo es diferente entre sí; la información puede ser antigua, parcial o subjetiva, con datos de precisión y exactitud desconocidas.
     h5 Técnicas a la hora de la recolección de la información
     p.mb-5 Por último, veamos algunas técnicas para tener en cuenta y que nos serán de apoyo en la recolección informativa a realizar:
     .tarjeta.tarjeta-bg(data-aos="zoom-in-up")
@@ -263,7 +264,7 @@
             .row.justify-content-center
               .col-lg-5(data-aos="fade-rigth")
                 h4 El resumen
-                p Es una síntesis de referente al tema en estudio la cual puede ser informativa, (objetivo, métodos, resultados) o descriptiva (descripción breve de la investigación)
+                p Es una síntesis de referente al tema en estudio la cual puede ser informativa, (objetivo, métodos, resultados) o descriptiva (descripción breve de la investigación).
               .col-lg-5(data-aos="fade-left")
                 img(src="@/assets/curso/79.jpg")
             

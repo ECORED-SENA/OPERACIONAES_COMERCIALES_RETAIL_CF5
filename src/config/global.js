@@ -222,7 +222,7 @@ export default {
     },
     {
       referencia:
-        ' Mariscal, M. (2009). Manual de proceso de la información. México D.F, Mexico: Editorial Miguel Ángel Porrúa.',
+        'Mariscal, M. (2009). Manual de proceso de la información. México D.F, Mexico: Editorial Miguel Ángel Porrúa.',
       link: '',
     },
     {
@@ -232,7 +232,7 @@ export default {
     },
     {
       referencia:
-        ' Vargas Quiñones, M. E. (2007). Calidad en el servicio. Bogotá, Colombia: Universidad de La Sabana',
+        'Vargas Quiñones, M. E. (2007). Calidad en el servicio. Bogotá, Colombia: Universidad de La Sabana.',
       link: '',
     },
     {
@@ -309,7 +309,7 @@ export default {
     {
       texto: 'Goodman, J. (2014). Atención estratégica al cliente. ',
       tipo: 'Libro',
-      descarga:
+      link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/77357 ',
     },
   ],
@@ -388,13 +388,42 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Ernesto Navarro Jaimes',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'José Jaime Luis Tang Pinzón',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo Lopez ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy María Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Magdi Khalifah Gamboa ',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

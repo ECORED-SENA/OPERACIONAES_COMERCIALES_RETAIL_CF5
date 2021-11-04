@@ -10,9 +10,10 @@
     #t_3_1.titulo-segundo(data-aos="fade-right")
       h2 3.1 Comunicación asertiva 
     p.mb-5 Históricamente el hombre ha sido un ser social y necesita comunicarse, porque es importante relacionarse con los demás. La comunicación es un acto que el individuo establece con otro, este contacto le permite informar.
-      br
-      br
-      |Es importante decir que uno de los aspectos más importantes es la comunicación asertiva cuyo objetivo es poder expresarse de manera respetuosa, sincera, sencilla y exponiendo lo que uno quiere, para que esto se cumpla es necesario tener la habilidad de hacerlo sin hacer daño a nadie.
+    .row.mb-5.justify-content-center
+      .col-lg-10
+        .cajon.color-primario.bg--1-claro.p-4.mb-4
+          p Es importante decir que uno de los aspectos más importantes es la comunicación asertiva cuyo objetivo es poder expresarse de manera respetuosa, sincera, sencilla y exponiendo lo que uno quiere, para que esto se cumpla es necesario tener la habilidad de hacerlo sin hacer daño a nadie.
     h3(data-aos="fade-right") Características de la comunicación asertiva:
     .row.mb-5.justify-content-center
       .col-lg-3
@@ -25,7 +26,7 @@
           .imagen-hover: img(src="@/assets/curso/29.jpg")
       .col-lg-3
         .tarjeta.tarjeta-hover.bg--1-claro.p-5.h-100.d-flex.align-items-center.hover(style='min-height: 297px')
-          p.mb-0.text-center.mx-2.h5 Se deben evitar los reproches personales, los ataques constantes o recurrir a informaciones hirientes que desacrediten a un individuo
+          p.mb-0.text-center.mx-2.h5 No es una comunicación pasiva o que impida exponer lo que verdaderamente se desea. La diferencia en este tipo de comunicación es que se expresa con honestidad, respeto y escogiendo las palabras más adecuadas para no generar conflicto.
           .imagen-hover: img(src="@/assets/curso/30.jpg")
       .col-lg-3
         .tarjeta.tarjeta-hover.bg--1-claro.p-5.h-100.d-flex.align-items-center.hover(style='min-height: 297px')
@@ -76,7 +77,7 @@
         .h5.mb-2 RECEPTOR:
         p Es la persona que recibe la información de otros.
       .tarjeta.color-acento-botones.p-3(x="57%" y="48%")
-        .h5.mb-2 FEED-BACK (retroalimentación):
+        .h5.mb-2 <i>FEED-BACK</i> (retroalimentación):
         p Es la respuesta al mensaje para confirmar que la comunicación va bien.
     p.mb-5 Luego de ver el proceso de comunicación y sus elementos compositivos, analicemos las categorías de la comunicación humana, las cuales se dividen en dos:
     .row.mb-5.justify-content-center
