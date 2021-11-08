@@ -150,8 +150,17 @@
       br
       br
       |Cuando pensamos en los ciclos del servicio nos ponemos en los zapatos del cliente y podemos percibir la calidad de servicio que este recibe. Cada momento de verdad se puede representar gráficamente y la responsabilidad del ciclo del servicio le corresponde a los empleados y directivos encargados de la prestación del servicio. Veamos un ejemplo de un ciclo basado en la calidad del servicio:
+    .tarjeta.bg--verde-claro.mb-5
+      .infografia-interactiva__titulo.d-flex.m-auto.justify-content-center.align-items-center.my-5
+        img(src='@/assets/curso/80.svg' alt='AvatarTop' style='width: 208px').m-3
+        h2 Calidad de Servicio
+      .row.justify-content-center.align-items-center.mt-5.g-0
+        .col-lg-2.col-md-3.col-6.mb-3.h-100: img(src="@/assets/curso/81.png")
+        .col-lg-2.col-md-3.col-6.mb-3.h-100: img(src="@/assets/curso/82.png")
+        .col-lg-2.col-md-3.col-6.mb-3.h-100: img(src="@/assets/curso/83.png")
+        .col-lg-2.col-md-3.col-6.mb-3.h-100: img(src="@/assets/curso/84.png")
+        .col-lg-2.col-md-3.col-6.mb-3.h-100: img(src="@/assets/curso/85.png")
 
-    //todo! INFOGRAFIA INTERACTIVA 
 
     #t_3_5.titulo-segundo(data-aos="fade-right")
       h2 3.5 Triángulo de servicio
@@ -204,4 +213,39 @@ export default {
   &:hover
     .tarjeta-avatar-b__img
       transform: scale(1.1)
+.bg--verde-claro
+  background-color: #E9F6F4
+.infografia-interactiva
+  height: 100%
+  &__contenedor-tarjetas
+    height: 100%
+    margin-bottom: 300px
+    justify-content: space-around
+    &__tarjeta
+      .titulo
+        padding-top: 5rem !important
+      min-width: 240px
+      position: relative
+      &__imagen
+          position: absolute
+          width: 100%
+          top: -30%
+          left: 0
+          padding: 10px
+      &__contenido
+        position: absolute
+        transform-origin: bottom left !important
+        top: 80%
+        background-color: red
+        width: 100%
+        overflow: hidden
+        height: 0
+        opacity: 0
+        transition: opacity 0.5s ease-in-out, height 0.2s ease-in-out
+
+      &:hover
+        .infografia-interactiva__contenedor-tarjetas__tarjeta__contenido
+          height: 100%
+          opacity: 1
+          overflow: visible
 </style>
