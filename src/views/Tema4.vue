@@ -85,7 +85,7 @@
         .col-md-7
           figure
             img(src='@/assets/curso/55.jpg', alt='Texto que describa la imagen')
-    #t_4_1_.titulo-segundo(data-aos="fade-right")
+    #t_4_1.titulo-segundo(data-aos="fade-right")
       h2 4.1 Protocolo de atención
     p.mb-5 Los protocolos de atención al cliente son la manera de fomentar en la organización la forma de actuar frente al cliente, el protocolo debe ser un documento que unifique los conceptos y criterios que lleven a cada colaborador a respetar y prestar una buena atención al cliente.
     .row.mb-5.justify-content-center

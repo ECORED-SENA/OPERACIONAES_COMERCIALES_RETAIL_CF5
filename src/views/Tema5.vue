@@ -153,12 +153,12 @@
     .row.mb-5
       .col-lg-6(data-aos="fade-right")
         h4 Estudios de mercado
-        p Hay que tener en cuenta que para posicionar un producto en el mercado se debe estudiar si hay demanda, existen mucha información sobre estudio de mercado, este estudio cobra importancia porque analiza la satisfacción del cliente, ya que permite averiguar si el producto le puede interesar al cliente objetivo, una pregunta que se debe hacer en este estudio es que precio está dispuesto a pagar el cliente o usuario por el producto o servicio. 
+        p Hay que tener en cuenta que para posicionar un producto en el mercado se debe estudiar si hay demanda, existen mucha información sobre estudio de mercado, este estudio cobra importancia porque analiza la satisfacción del cliente, ya que permite averiguar si el producto le puede interesar al cliente objetivo, una pregunta que se debe hacer en este estudio es qué precio está dispuesto a pagar el cliente o usuario por el producto o servicio. 
       .col-lg-6(data-aos="fade-left"): img(src="@/assets/curso/69.jpg")
     .row.mb-5
       .col-lg-6(data-aos="fade-right")
         h4 Encuestas de satisfacción del cliente
-        p En la historia reciente las encuestas no son muy bien recibidas, debido a que la norma ISO 9001 obliga a todas las empresas medir la satisfacción del cliente, esto ha obligado a que las empresas envíen por correo la encuesta a los clientes, esta forma de encuesta no es efectiva porque según las estadísticas solamente el 5% de los encuestados responde las preguntas, son efectivas en el sentido que podemos hacer un análisis y darnos cuenta de aspectos que no hemos tenido en cuenta para la satisfacción del cliente.
+        p En la historia reciente las encuestas no son muy bien recibidas, debido a que la norma ISO 9001 obliga a todas las empresas medir la satisfacción del cliente, esto ha obligado a que las empresas envíen por correo la encuesta a los clientes, esta forma de encuesta no es efectiva porque según las estadísticas solamente el 5 % de los encuestados responde las preguntas, son efectivas en el sentido que podemos hacer un análisis y darnos cuenta de aspectos que no hemos tenido en cuenta para la satisfacción del cliente.
           br
           br
           |Siguiendo las siguientes normas, podemos obtener una buena información en las encuestas:
@@ -167,7 +167,7 @@
       .col-lg-3
         .tarjeta.bg--1-1.py-5.px-4.h-100
           img(src="@/assets/curso/71.svg" style="width: 57px").mb-4
-          p Realice una buena segmentación de clientes, es un error enviar la misma encuesta a trabajadores que desempeñan diferentes funciones y no se conocen entre ellos, es importante elaborar diferentes encuestas teniendo en cuenta el tamaño de la empresa, no las envié a la vez, hay que tomarse el tiempo y hacerlo por separado. 
+          p Realice una buena segmentación de clientes, es un error enviar la misma encuesta a trabajadores que desempeñan diferentes funciones y no se conocen entre ellos, es importante elaborar diferentes encuestas teniendo en cuenta el tamaño de la empresa, no las envíe a la vez, hay que tomarse el tiempo y hacerlo por separado. 
       .col-lg-3
         .tarjeta.bg--1-1.py-5.px-4.h-100
           img(src="@/assets/curso/72.svg" style="width: 57px").mb-4

@@ -203,7 +203,7 @@
           p Toda empresa debe analizar las necesidades indicadas por el cliente y determinar un plan para abordarlas. Se deben tener en cuenta las reacciones del mismo, esto será clave. Las empresas deben pensar en cómo afectará el escenario al cliente para determinar cómo reaccionar ante la necesidad.
             br
             br
-            |Por poner un ejemplo: los huéspedes de un hotel estaban confundidos y no tenían ninguna instrucción de la Administración sobre qué hacer en la situación de un apagón (ausencia de energía) Si todos los empleados del Hotel estuvieran al tanto del plan de contingencia, habrían podido informar a los huéspedes como se resolvería el problema. 
+            |Por poner un ejemplo: los huéspedes de un hotel estaban confundidos y no tenían ninguna instrucción de la Administración sobre qué hacer en la situación de un apagón (ausencia de energía) Si todos los empleados del Hotel estuvieran al tanto del plan de contingencia, habrían podido informar a los huéspedes cómo se resolvería el problema. 
         .col-lg-5.col-md-3.col-sm-4.col-xs-5.mb-3: img(src='@/assets/curso/27.jpg')
       .row(titulo="").px-3
         .col-lg-7.col-md-9.col-sm-8.col-xs-7.mb-5

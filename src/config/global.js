@@ -222,7 +222,7 @@ export default {
     },
     {
       referencia:
-        'Mariscal, M. (2009). Manual de proceso de la información. México D.F, Mexico: Editorial Miguel Ángel Porrúa.',
+        'Mariscal, M. (2009). Manual de proceso de la información. México D.F, México: Editorial Miguel Ángel Porrúa.',
       link: '',
     },
     {
@@ -301,7 +301,7 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Blanco, C. (2013). Comunicación y atención al cliente. ”',
+      texto: 'Blanco, C. (2013). Comunicación y atención al cliente.',
       tipo: 'Libro',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/42955 ',

@@ -93,7 +93,7 @@
         .tarjeta.bg--1-claro.p-5.text-center.h-100.d-flex.align-items-center.hover
           .content
             h4 Comunicación no verbal: 
-            p Se considera que el 55% de nuestra comunicación es gestual, en este tipo de comunicación se utilizan los gestos, el contacto visual, la postura del cuerpo, el movimiento de las manos, esta comunicación es efectiva cuando los mensajes verbales y no verbales coinciden.
+            p Se considera que el 55 % de nuestra comunicación es gestual, en este tipo de comunicación se utilizan los gestos, el contacto visual, la postura del cuerpo, el movimiento de las manos, esta comunicación es efectiva cuando los mensajes verbales y no verbales coinciden.
             img(src="@/assets/curso/39.png") 
     #t_3_3.titulo-segundo(data-aos="fade-right")
       h2 3.3 Pautas de actuación 
